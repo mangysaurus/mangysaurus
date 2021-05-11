@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mangysaurus
+- 👀 I’m interested in solving business problems with technology.
+- 🌱 I’m currently learning next.js
+- 💞️ I’m looking to collaborate on hospitality and commerce solutions.
+- 📫 info@gethearth.io
